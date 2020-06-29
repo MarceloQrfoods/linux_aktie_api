@@ -1,1 +1,1 @@
-web: adonis serve --dev
+web: npm start
